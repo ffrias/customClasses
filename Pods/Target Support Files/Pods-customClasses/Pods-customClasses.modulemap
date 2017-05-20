@@ -1,0 +1,6 @@
+framework module Pods_customClasses {
+  umbrella header "Pods-customClasses-umbrella.h"
+
+  export *
+  module * { export * }
+}
